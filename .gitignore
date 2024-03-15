@@ -21,3 +21,9 @@ Homestead.yaml
 Homestead.json
 /.vagrant
 .phpunit.result.cache
+
+/testApp/vendor
+/testApp/db
+/testApp/docker
+/testApp/docker-compose.yml
+/testApp/.env
